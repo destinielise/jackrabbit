@@ -1,0 +1,357 @@
+.hero-adidas {
+  width: auto;
+  background-image: url('../images/Mens_BG_Adidas_0818.jpg');
+  background-position: 50% 100%;
+  background-size: cover;
+}
+
+.hero-title {
+  background-color: transparent;
+  font-family: Raleway, sans-serif;
+  color: #fff;
+  font-size: 300%;
+  line-height: 125%;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+
+.hero-text {
+  padding-top: 15%;
+  padding-bottom: 15%;
+  padding-left: 55%;
+}
+
+.hero-subtitle {
+  padding-top: 2%;
+  padding-left: 0%;
+  font-family: Raleway, sans-serif;
+  color: #fff;
+  font-size: 171%;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+}
+
+.btn {
+  margin-top: 2%;
+  padding: 4%;
+  border-radius: 5px;
+  background-color: #cb2a32;
+  font-family: Raleway, sans-serif;
+  font-size: 165%;
+  letter-spacing: 0.06em;
+}
+
+.btn.second-row {
+  margin-top: 9px;
+  margin-bottom: 6%;
+  padding: 4% 5%;
+  font-size: 100%;
+  letter-spacing: 0.1em;
+}
+
+.btn.brands-btn {
+  margin-left: 34%;
+  padding: 2%;
+}
+
+.btn.shopmens {
+  margin-bottom: 13%;
+  padding-right: 30%;
+  padding-bottom: 5%;
+  padding-left: 30%;
+  font-size: 125%;
+  letter-spacing: 0.02em;
+}
+
+.product-feature {
+  width: 1180px;
+  margin-top: 0%;
+}
+
+.col {
+  padding-top: 25%;
+  padding-right: 5%;
+  padding-left: 5%;
+  background-image: url('../images/May-7-Embargo_Instagram_Option-2.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.col.mens-running {
+  text-align: center;
+}
+
+.col.mens-newarivlas {
+  background-image: url('../images/Nike-Zoom-Pegasus-Turbo.jpg');
+  background-position: 50% 94%;
+  text-align: center;
+}
+
+.col.mens-dotw {
+  background-image: url('../images/Artboard-2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-attachment: scroll;
+  text-align: center;
+}
+
+.jr-essentials-col-shoe {
+  padding-bottom: 75%;
+  background-image: -webkit-linear-gradient(270deg, #fff, #fff);
+  background-image: linear-gradient(180deg, #fff, #fff);
+}
+
+.jr-essentials-col-shoe.men-gel-cumulus {
+  background-image: url('../images/mens-asics-gel-cumulus-20-running-shoe-color-race-blue-regular-width-size-8-609465345079-01.2456.jpg'), -webkit-linear-gradient(270deg, #fff, #fff);
+  background-image: url('../images/mens-asics-gel-cumulus-20-running-shoe-color-race-blue-regular-width-size-8-609465345079-01.2456.jpg'), linear-gradient(180deg, #fff, #fff);
+  background-position: 50% 50%, 0px 0px;
+  background-size: contain, auto;
+  background-repeat: no-repeat, repeat;
+}
+
+.jr-essentials-col-shoe.mens-brooks-gly {
+  background-image: url('../images/mens-brooks-glycerin-16-running-shoe-color-bluenightlife-regular-width-size-7.5-609465344416-01.2509.jpg'), -webkit-linear-gradient(270deg, transparent, transparent);
+  background-image: url('../images/mens-brooks-glycerin-16-running-shoe-color-bluenightlife-regular-width-size-7.5-609465344416-01.2509.jpg'), linear-gradient(180deg, transparent, transparent);
+  background-position: 50% 50%, 0px 0px;
+  background-size: contain, auto;
+  background-repeat: no-repeat, repeat;
+}
+
+.jr-essentials-col-shoe.nike-peg-turbo-zoom {
+  background-image: url('../images/mens-nike-zoom-pegasus-35-turbo-running-shoe-color-barely-greyhot-punchblack-regular-width-size-6.5-609465392970-01.2552.jpg'), -webkit-linear-gradient(270deg, #fff, #fff);
+  background-image: url('../images/mens-nike-zoom-pegasus-35-turbo-running-shoe-color-barely-greyhot-punchblack-regular-width-size-6.5-609465392970-01.2552.jpg'), linear-gradient(180deg, #fff, #fff);
+  background-position: 50% 50%, 0px 0px;
+  background-size: contain, auto;
+}
+
+.shoe-title {
+  padding-top: 5%;
+  font-family: Raleway, sans-serif;
+  color: #1e1944;
+  font-size: 125%;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.1em;
+}
+
+.slider {
+  width: 1180px;
+  height: auto;
+  margin-top: 0%;
+  padding-bottom: 3%;
+}
+
+.shoe-price {
+  margin-top: 1%;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.text-span {
+  color: #1e1944;
+}
+
+.jr-essentials-col {
+  position: static;
+  padding: 3% 2% 4%;
+  background-image: -webkit-linear-gradient(270deg, #eeecec, #eeecec);
+  background-image: linear-gradient(180deg, #eeecec, #eeecec);
+}
+
+.jr-essemtials-row {
+  padding-right: 7%;
+  padding-left: 7%;
+}
+
+.jr-essemtials-row.jr-row-mobile {
+  display: block;
+  padding-right: 3%;
+  padding-left: 3%;
+}
+
+.image {
+  margin-top: 2%;
+  margin-bottom: 3%;
+  text-align: left;
+}
+
+.brands-col {
+  position: static;
+  padding-top: 5%;
+  padding-bottom: 17px;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.brands-section {
+  width: 1180px;
+  margin-top: 7%;
+  margin-bottom: 31px;
+}
+
+.container {
+  padding-left: 0px;
+}
+
+.brands-row {
+  margin-top: 1px;
+  padding-right: 4%;
+  padding-left: 4%;
+}
+
+.text-block-2 {
+  margin-top: -1px;
+  margin-bottom: 1%;
+  font-family: Raleway, sans-serif;
+  font-size: 250%;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+
+.brand-img {
+  padding-top: 17%;
+  padding-left: 0px;
+}
+
+.hoka-logo {
+  padding-top: 18px;
+}
+
+.asics-logo {
+  padding-top: 11px;
+}
+
+.nike-logo {
+  margin-left: 15px;
+  padding-right: 1px;
+  padding-left: 9px;
+}
+
+.page-wrapper {
+  width: 1180px;
+}
+
+.jr-essentials {
+  background-image: -webkit-linear-gradient(270deg, #eeecec, #eeecec);
+  background-image: linear-gradient(180deg, #eeecec, #eeecec);
+  text-align: center;
+}
+
+.jr-ess-shoe-con {
+  padding-right: 6%;
+  padding-left: 6%;
+  background-image: -webkit-linear-gradient(270deg, #fff, #fff);
+  background-image: linear-gradient(180deg, #fff, #fff);
+}
+
+.jr-ess-shoe-states-1 {
+  margin-top: 8px;
+  font-family: Raleway, sans-serif;
+  color: #d1d1d1;
+  font-size: 100%;
+  letter-spacing: 0.1em;
+}
+
+.text-block-3 {
+  margin-top: 16px;
+  font-family: Raleway, sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+.jr-ess-shoe-des {
+  margin-top: 6%;
+  font-family: Roboto, sans-serif;
+  color: #969696;
+  font-size: 100%;
+  line-height: 214%;
+  font-weight: 300;
+  text-align: center;
+}
+
+.image-2 {
+  width: 80%;
+}
+
+@media (max-width: 479px) {
+  .hero-adidas {
+    width: 100%;
+  }
+  .hero-title {
+    font-size: 175%;
+  }
+  .hero-text {
+    padding: 33% 18px 10% 48%;
+  }
+  .hero-subtitle {
+    font-size: 125%;
+  }
+  .btn {
+    padding: 6%;
+    font-size: 100%;
+  }
+  .btn.second-row {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 4%;
+    padding-left: 5%;
+    font-size: 125%;
+  }
+  .btn.brands-btn {
+    margin-left: auto;
+    padding: 4%;
+    font-size: 125%;
+    text-align: center;
+  }
+  .product-feature {
+    width: 100%;
+  }
+  .col {
+    padding-top: 60%;
+  }
+  .col.mens-running {
+    padding-top: 50%;
+  }
+  .col.mens-newarivlas {
+    padding-top: 50%;
+  }
+  .col.mens-dotw {
+    padding-top: 50%;
+  }
+  .slider {
+    width: 100%;
+    height: auto;
+  }
+  .brands-section {
+    width: 100%;
+    margin-top: 17%;
+    padding-right: 9%;
+    padding-left: 9%;
+  }
+  .container {
+    text-align: center;
+  }
+  .brands-row {
+    display: inline-block;
+    width: 85%;
+    float: none;
+    text-align: center;
+  }
+  .text-block-2 {
+    margin-bottom: 15%;
+    font-size: 200%;
+  }
+  .page-wrapper {
+    width: 100%;
+  }
+}
+
+@font-face {
+  font-family: 'Fontawesome';
+  src: url('../fonts/FontAwesome.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
